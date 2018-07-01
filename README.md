@@ -4,3 +4,5 @@ https://www.kaggle.com/c/avito-demand-prediction
 Avito_Demand_Prediction.ipynb - Prediction model based on lightgbm
 
 This file requires input file of train.csv and test.csv, downloadable from https://www.kaggle.com/c/avito-demand-prediction
+
+Finished 144th out of 1917 teams (Bronze Medal)
